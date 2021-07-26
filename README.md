@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Guangren Wang
+### Hi there 👋, I'm Guangren Wang (Grivn)
 
-- I’m currently a student of Zhejiang University focusing on Blockchain Technology
-- I’m currently interested in learning Go, Consensus, Blockchain and Jogging
-- I’m currently playing Genshin
+- A student of Zhejiang University
+- Focusing on Go, Consensus, Blockchain and Jogging
+- Player of Genshin
 
 <!-- bg_color=60,f7b267,f25c54&text_color=fff&title_color=fff&icon_color=fff-->
 ![Stats](https://github-readme-stats.vercel.app/api?username=Grivn&include_all_commits=true&hide_border=true&theme=graywhite) 
