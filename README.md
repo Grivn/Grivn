@@ -16,7 +16,7 @@
 - RD in ByteDance (TikTok), concentrating on microservice architecture and observability.
 
 #### 2019.7 ~ 2022.2
-- RD in Hyperchain (https://www.hyperchain.cn/en/), one of the most famous company in China to build permissioned blockchain infrastructure, concentrating on efficient consensus protocol.
+- RD in Hyperchain (https://www.hyperchain.cn/en/), one of the most famous companies in China to build permissioned blockchain infrastructure, concentrating on efficient consensus protocol.
 
 ### Research
 
