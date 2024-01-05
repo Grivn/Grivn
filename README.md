@@ -1,6 +1,6 @@
 ### Profile
 
-#### Hi there 👋, I'm Guangren Wang (Grivn)
+#### Hi there 👋, I'm Grivn
 
 - Graduated from Zhejiang University.
 - Focusing on Go, Rust, Consensus, Distributed System, Blockchain, and Web3.0.
