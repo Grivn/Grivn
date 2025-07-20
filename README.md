@@ -13,7 +13,9 @@
 ### Work
 
 #### 2022.5 ~ now
-- RD in ByteDance (TikTok), concentrating on microservice architecture and observability.
+- RD in ByteDance (TikTok)
+- Microservice architecture and observability.
+- Agentic AI.
 
 #### 2019.7 ~ 2022.2
 - RD in Hyperchain (https://www.hyperchain.cn/en/), one of the most famous companies in China to build permissioned blockchain infrastructure, concentrating on efficient consensus protocol.
