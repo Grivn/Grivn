@@ -32,7 +32,7 @@ I build at the intersection of **distributed systems**, **agentic AI**, and **De
 ### 🧠 Background
 
 - 🎓 ZJU & WHU
-- 💼 Engineer @ ByteDance — microservices, observability, agentic AI
+- 💼 Engineer @ [ByteDance](https://github.com/bytedance) — agentic AI · MCP · microservice · observability · AIOps · RCA · stability · monitoring · alarm · log
 - ⛓️ Previously: consensus protocol R&D @ [Hyperchain](https://www.hyperchain.cn/en/)
 - 📄 Research: fair ordering in BFT consensus protocols
 
