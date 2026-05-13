@@ -8,24 +8,23 @@ I build at the intersection of **distributed systems**, **agentic AI**, and **De
 
 ### 🔨 What I'm building
 
-| Project | Description |
-|---|---|
-| [mnemon](https://github.com/mnemon-dev/mnemon) | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single Go binary |
-| [phalanx](https://github.com/Grivn/phalanx) | BFT mempool with fair ordering — research-grade consensus protocol |
-| [falanx](https://github.com/Grivn/falanx) | Byzantine broadcast protocol (demo for Phalanx system) |
-| [normalizejson](https://github.com/Grivn/normalizejson) | Go package for normalizing JSON documents with templates |
+| Project | Stats | Description |
+|---|---|---|
+| [mnemon](https://github.com/mnemon-dev/mnemon) | ![GitHub stars](https://img.shields.io/github/stars/mnemon-dev/mnemon?style=flat&label=stars) ![GitHub forks](https://img.shields.io/github/forks/mnemon-dev/mnemon?style=flat&label=forks) | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single Go binary |
+| [phalanx](https://github.com/Grivn/phalanx) | ![GitHub stars](https://img.shields.io/github/stars/Grivn/phalanx?style=flat&label=stars) ![GitHub forks](https://img.shields.io/github/forks/Grivn/phalanx?style=flat&label=forks) | BFT mempool with fair ordering — research-grade consensus protocol |
+| [normalizejson](https://github.com/Grivn/normalizejson) | ![GitHub stars](https://img.shields.io/github/stars/Grivn/normalizejson?style=flat&label=stars) ![GitHub forks](https://img.shields.io/github/forks/Grivn/normalizejson?style=flat&label=forks) | Go package for normalizing JSON documents with templates |
 
 ---
 
 ### 🤝 Contributions
 
-| Project | Description |
-|---|---|
-| [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) ⭐ 11k | Wrap Gemini CLI, Claude Code, Codex, Qwen as OpenAI/Claude-compatible API |
-| [mcp-go](https://github.com/mark3labs/mcp-go) ⭐ 8k | Go implementation of the Model Context Protocol (MCP) |
-| [bamboo](https://github.com/gitferry/bamboo) ⭐ 58 | Source code for ICDCS 2022 paper "Dissecting the Performance of Chained-BFT" |
-| [cometbft](https://github.com/cometbft/cometbft) ⭐ 860 | Byzantine fault-tolerant state machine replication engine (fork of Tendermint Core) |
-| [blockchain_conference_paper](https://github.com/jianyu-niu/blockchain_conference_paper) ⭐ 1.1k | Curated list of blockchain academic papers by conference and year |
+| Project | Stats | Description |
+|---|---|---|
+| [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | ![GitHub stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat&label=stars) ![GitHub forks](https://img.shields.io/github/forks/router-for-me/CLIProxyAPI?style=flat&label=forks) | Wrap Gemini CLI, Claude Code, Codex, Qwen as OpenAI/Claude-compatible API |
+| [mcp-go](https://github.com/mark3labs/mcp-go) | ![GitHub stars](https://img.shields.io/github/stars/mark3labs/mcp-go?style=flat&label=stars) ![GitHub forks](https://img.shields.io/github/forks/mark3labs/mcp-go?style=flat&label=forks) | Go implementation of the Model Context Protocol (MCP) |
+| [bamboo](https://github.com/gitferry/bamboo) | ![GitHub stars](https://img.shields.io/github/stars/gitferry/bamboo?style=flat&label=stars) ![GitHub forks](https://img.shields.io/github/forks/gitferry/bamboo?style=flat&label=forks) | Source code for ICDCS 2022 paper "Dissecting the Performance of Chained-BFT" |
+| [cometbft](https://github.com/cometbft/cometbft) | ![GitHub stars](https://img.shields.io/github/stars/cometbft/cometbft?style=flat&label=stars) ![GitHub forks](https://img.shields.io/github/forks/cometbft/cometbft?style=flat&label=forks) | Byzantine fault-tolerant state machine replication engine (fork of Tendermint Core) |
+| [blockchain_conference_paper](https://github.com/jianyu-niu/blockchain_conference_paper) | ![GitHub stars](https://img.shields.io/github/stars/jianyu-niu/blockchain_conference_paper?style=flat&label=stars) ![GitHub forks](https://img.shields.io/github/forks/jianyu-niu/blockchain_conference_paper?style=flat&label=forks) | Curated list of blockchain academic papers by conference and year |
 
 ---
 
