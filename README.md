@@ -4,13 +4,15 @@ Engineer by day, onchain by conviction.
 
 I build at the intersection of **distributed systems**, **agentic AI**, and **DeFi** — from low-level BFT consensus protocols to AI agents with persistent memory.
 
+Creator of [mnemon](https://github.com/mnemon-dev/mnemon), **LLM-supervised persistent memory for AI agents** — a single Go binary that gives CLI agents cross-session memory through graph-based recall, importance decay, and automatic deduplication.
+
 ---
 
 ### 🔨 What I'm building
 
 | Project | Stats | Description |
 |---|---|---|
-| [mnemon](https://github.com/mnemon-dev/mnemon) | <nobr><a href="https://github.com/mnemon-dev/mnemon/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/mnemon-dev/mnemon?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;labelColor=24292f&amp;color=ffdf5d"></a>&nbsp;<a href="https://github.com/mnemon-dev/mnemon/forks"><img alt="forks" src="https://img.shields.io/github/forks/mnemon-dev/mnemon?style=flat-square&amp;logo=git&amp;logoColor=white&amp;label=forks&amp;labelColor=24292f&amp;color=54aeff"></a></nobr> | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single Go binary |
+| [mnemon](https://github.com/mnemon-dev/mnemon) | <nobr><a href="https://github.com/mnemon-dev/mnemon/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/mnemon-dev/mnemon?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;labelColor=24292f&amp;color=ffdf5d"></a>&nbsp;<a href="https://github.com/mnemon-dev/mnemon/forks"><img alt="forks" src="https://img.shields.io/github/forks/mnemon-dev/mnemon?style=flat-square&amp;logo=git&amp;logoColor=white&amp;label=forks&amp;labelColor=24292f&amp;color=54aeff"></a></nobr> | Creator & maintainer. LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single Go binary. Works with Claude Code, OpenClaw, and any CLI agent |
 | [phalanx](https://github.com/Grivn/phalanx) | <nobr><a href="https://github.com/Grivn/phalanx/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/Grivn/phalanx?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;labelColor=24292f&amp;color=ffdf5d"></a>&nbsp;<a href="https://github.com/Grivn/phalanx/forks"><img alt="forks" src="https://img.shields.io/github/forks/Grivn/phalanx?style=flat-square&amp;logo=git&amp;logoColor=white&amp;label=forks&amp;labelColor=24292f&amp;color=54aeff"></a></nobr> | BFT mempool with fair ordering — research-grade consensus protocol |
 | [normalizejson](https://github.com/Grivn/normalizejson) | <nobr><a href="https://github.com/Grivn/normalizejson/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/Grivn/normalizejson?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;labelColor=24292f&amp;color=ffdf5d"></a>&nbsp;<a href="https://github.com/Grivn/normalizejson/forks"><img alt="forks" src="https://img.shields.io/github/forks/Grivn/normalizejson?style=flat-square&amp;logo=git&amp;logoColor=white&amp;label=forks&amp;labelColor=24292f&amp;color=54aeff"></a></nobr> | Go package for normalizing JSON documents with templates |
 
