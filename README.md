@@ -50,5 +50,3 @@ Go · Python · Distributed Systems · Consensus Protocols · Agentic AI · MCP
 DeFi analyst | $HYPE · $PENDLE | Believer in the free movement of value
 
 - 🐦 [@grivn_eth](https://x.com/grivn_eth)
-
-osai-verify: 85283db322a876ea518a
