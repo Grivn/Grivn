@@ -1,25 +1,41 @@
-### Hi, I'm Grivn 👋
+# Hi, I'm Grivn 👋
 
 Engineer by day, onchain by conviction.
 
-I build at the intersection of **distributed systems**, **agentic AI**, and **DeFi** — from low-level BFT consensus protocols to AI agents with persistent memory.
+I build **distributed systems** and tools for **AI agents**, with a background in BFT consensus and an interest in **DeFi**.
 
-Creator of [mnemon](https://github.com/mnemon-dev/mnemon), **LLM-supervised persistent memory for AI agents** — a single Go binary that gives CLI agents cross-session memory through graph-based recall, importance decay, and automatic deduplication. Bringing that memory to DeepSeek Harness with [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) — cross-agent, local-first persistent memory in the DSH Sidebar.
+Currently building [**mnemon**](https://github.com/mnemon-dev/mnemon): persistent memory for AI agents, with graph-based recall and the host LLM as supervisor. I also build [**dsh-mnemon**](https://github.com/omdsh-dev/dsh-mnemon), composable memory for DeepSeek Harness.
+
+[Projects](#-what-im-building) · [Research](#-research) · [Contributions](#-contributions) · [Background](#-background) · [X / @grivn_eth](https://x.com/grivn_eth)
 
 ---
 
-### 🔨 What I'm building
+## 🔨 What I'm building
 
 | Project | Stats | Description |
 |---|---|---|
-| [mnemon](https://github.com/mnemon-dev/mnemon) | <nobr><a href="https://github.com/mnemon-dev/mnemon/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/mnemon-dev/mnemon?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;labelColor=24292f&amp;color=ffdf5d"></a>&nbsp;<a href="https://github.com/mnemon-dev/mnemon/forks"><img alt="forks" src="https://img.shields.io/github/forks/mnemon-dev/mnemon?style=flat-square&amp;logo=git&amp;logoColor=white&amp;label=forks&amp;labelColor=24292f&amp;color=54aeff"></a></nobr> | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness, Claude Code, OpenClaw, and any agent runtime. |
-| [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | <nobr><a href="https://github.com/omdsh-dev/dsh-mnemon/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/omdsh-dev/dsh-mnemon?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;labelColor=24292f&amp;color=ffdf5d"></a>&nbsp;<a href="https://github.com/omdsh-dev/dsh-mnemon/forks"><img alt="forks" src="https://img.shields.io/github/forks/omdsh-dev/dsh-mnemon?style=flat-square&amp;logo=git&amp;logoColor=white&amp;label=forks&amp;labelColor=24292f&amp;color=54aeff"></a></nobr> | Persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon — runtime memory, project documents, semantic recall, knowledge graph, and a Sidebar workbench, shared across Mnemon-enabled agents |
-| [phalanx](https://github.com/Grivn/phalanx) | <nobr><a href="https://github.com/Grivn/phalanx/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/Grivn/phalanx?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;labelColor=24292f&amp;color=ffdf5d"></a>&nbsp;<a href="https://github.com/Grivn/phalanx/forks"><img alt="forks" src="https://img.shields.io/github/forks/Grivn/phalanx?style=flat-square&amp;logo=git&amp;logoColor=white&amp;label=forks&amp;labelColor=24292f&amp;color=54aeff"></a></nobr> | BFT mempool with fair ordering — research-grade consensus protocol |
-| [normalizejson](https://github.com/Grivn/normalizejson) | <nobr><a href="https://github.com/Grivn/normalizejson/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/Grivn/normalizejson?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;labelColor=24292f&amp;color=ffdf5d"></a>&nbsp;<a href="https://github.com/Grivn/normalizejson/forks"><img alt="forks" src="https://img.shields.io/github/forks/Grivn/normalizejson?style=flat-square&amp;logo=git&amp;logoColor=white&amp;label=forks&amp;labelColor=24292f&amp;color=54aeff"></a></nobr> | Go package for normalizing JSON documents with templates |
+| [mnemon](https://github.com/mnemon-dev/mnemon) | <nobr><a href="https://github.com/mnemon-dev/mnemon/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/mnemon-dev/mnemon?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;labelColor=24292f&amp;color=ffdf5d"></a>&nbsp;<a href="https://github.com/mnemon-dev/mnemon/forks"><img alt="forks" src="https://img.shields.io/github/forks/mnemon-dev/mnemon?style=flat-square&amp;logo=git&amp;logoColor=white&amp;label=forks&amp;labelColor=24292f&amp;color=54aeff"></a></nobr> | Persistent memory for AI agents in a single Go binary. Graph-based recall, cross-session knowledge, and host-LLM supervision; integrations include Claude Code and Codex. |
+| [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | <nobr><a href="https://github.com/omdsh-dev/dsh-mnemon/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/omdsh-dev/dsh-mnemon?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;labelColor=24292f&amp;color=ffdf5d"></a>&nbsp;<a href="https://github.com/omdsh-dev/dsh-mnemon/forks"><img alt="forks" src="https://img.shields.io/github/forks/omdsh-dev/dsh-mnemon?style=flat-square&amp;logo=git&amp;logoColor=white&amp;label=forks&amp;labelColor=24292f&amp;color=54aeff"></a></nobr> | Composable, view-based memory for DeepSeek Harness, with pluggable sources and strategies and three-tier memory out of the box. |
+| [phalanx](https://github.com/Grivn/phalanx) | <nobr><a href="https://github.com/Grivn/phalanx/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/Grivn/phalanx?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;labelColor=24292f&amp;color=ffdf5d"></a>&nbsp;<a href="https://github.com/Grivn/phalanx/forks"><img alt="forks" src="https://img.shields.io/github/forks/Grivn/phalanx?style=flat-square&amp;logo=git&amp;logoColor=white&amp;label=forks&amp;labelColor=24292f&amp;color=54aeff"></a></nobr> | Byzantine fault-tolerant mempool with fair transaction ordering. |
+| [normalizejson](https://github.com/Grivn/normalizejson) | <nobr><a href="https://github.com/Grivn/normalizejson/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/Grivn/normalizejson?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;labelColor=24292f&amp;color=ffdf5d"></a>&nbsp;<a href="https://github.com/Grivn/normalizejson/forks"><img alt="forks" src="https://img.shields.io/github/forks/Grivn/normalizejson?style=flat-square&amp;logo=git&amp;logoColor=white&amp;label=forks&amp;labelColor=24292f&amp;color=54aeff"></a></nobr> | Go package for normalizing JSON keys and values with templates. |
 
 ---
 
-### 🤝 Contributions
+## 📄 Research
+
+### Mnemon: Raw Records, Fast Judgments, Slow Thoughts
+
+[Paper](https://arxiv.org/abs/2609.36059) · [PDF](https://arxiv.org/pdf/2609.36059) · [Code, prompts & run records](https://github.com/Grivn/mnemon-memory-agent)
+
+A memory agent that preserves raw, dated conversations and separates fast evidence judgments (System 1, **Jev**) from search planning and reasoning (System 2, **LLM**). It builds a compact evidence view when a question arrives, with a background index for broader conversation recall.
+
+- **With GPT-4.1-mini:** 91.7% on LoCoMo and 83.8% on LongMemEval-S, using under 4k context tokens per question.
+- **With a reasoning model:** 92.2% on LoCoMo and 94.4% on LongMemEval-S.
+- **Scaling:** on BEAM, per-question cost grows by just 1.11× as history grows from 100K to 10M tokens.
+
+---
+
+## 🤝 Contributions
 
 <details>
 <summary>Open-source projects I've contributed to</summary>
@@ -39,22 +55,22 @@ Creator of [mnemon](https://github.com/mnemon-dev/mnemon), **LLM-supervised pers
 
 ---
 
-### 🧠 Background
+## 🧠 Background
 
 - 🎓 ZJU & WHU
-- 💼 Engineer @ [ByteDance](https://github.com/bytedance) — agentic AI · MCP · microservice · observability · AIOps · RCA · stability · monitoring · alarm · log
+- 💼 Engineer @ [ByteDance](https://github.com/bytedance) — AI agents · MCP · microservices · observability · AIOps · root cause analysis
 - ⛓️ Previously: consensus protocol R&D @ [Hyperchain](https://www.hyperchain.cn/en/)
-- 📄 Research: fair ordering in BFT consensus protocols
+- 📄 Research: long-term memory for AI agents · fair ordering in BFT consensus protocols
 
 ---
 
-### ⚡ Tech
+## ⚡ Tech
 
 Go · Python · Distributed Systems · Consensus Protocols · Agentic AI · MCP
 
 ---
 
-### 🌐 Onchain
+## 🌐 Onchain
 
 DeFi analyst | $HYPE · $PENDLE | Believer in the free movement of value
 
